@@ -47,7 +47,9 @@ define(function (require) {
         "[": true,
         "]": true,
         "{": true,
-        "}": true
+        "}": true,
+        "<": true,
+        ">": true
     };
 
 
